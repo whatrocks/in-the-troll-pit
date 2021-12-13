@@ -1,11 +1,11 @@
 layout: app
 title: in-the-troll-pit
-base_url: https://iitp.charlieharrington.com
+base_url: https://ittp.charlieharrington.com
 podcast_category: Technology
 podcast_language: en-us
 podcast_subtitle: Old computers are the best
 podcast_author: Charlie Harrington
 podcast_summary: Charlie Harrington has a problem - he loves old computers. He's down in the Troll Pit and  
 podcast_explicit: 'no'
-podcast_email: iitp@whatrocks.org
+podcast_email: ittp@whatrocks.org
 podcast_img_url: 'https://whatrocks.github.io/in-the-troll-pit/static/ittp.jpg'
