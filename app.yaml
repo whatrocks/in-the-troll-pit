@@ -1,6 +1,7 @@
 layout: app
 title: in-the-troll-pit
-base_url: https://ittp.charlieharrington.com
+# base_url: https://ittp.charlieharrington.com
+base_url: https://in-the-troll-pit.pages.dev
 podcast_category: Technology
 podcast_language: en-us
 podcast_subtitle: Old computers are the best
