@@ -1,3 +1,25 @@
 * {
   box-sizing: border-box;
 }
+
+h1 {
+  font-family: 'Creepster', sans-serif;
+  font-size: 80px;
+  margin: 0px;
+}
+
+img {
+  width: 60px;
+  margin-right: 10px;
+}
+
+.podcasts {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.podcasts p {
+  margin: 0;
+}
