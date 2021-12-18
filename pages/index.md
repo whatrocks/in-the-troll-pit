@@ -17,7 +17,7 @@ Keep tinkering!
 
 [![Podcasts](podcasts.svg)](https://podcasts.apple.com/us/podcast/in-the-troll-pit/id1600087203)
 
-[![Overcast](overcast.svg)](https://overcast.fm/id1600087203)
+[![Overcast](overcast.svg)](https://overcast.fm/itunes1600087203)
 
 [![Spotify](spotify.png)](https://open.spotify.com/show/3gWTdQ13PuRketNfEx8SQR)
 
