@@ -7,10 +7,10 @@ Podcast website and feed
 Download mp3 file of YouTube video
 
 ```bash
-youtube-dl --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s" https://www.youtube.com/
+youtube-dl --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s" https://youtu.be/vIlgxUoL9a4
 ```
 
-Get file size of mp3 in bytes
+Get file size of mp3 in bytes 
 
 ```bash
 wc -c < 1-apple-iie-floppy-drive-setup.mp3
